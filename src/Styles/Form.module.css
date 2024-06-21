@@ -1,0 +1,11 @@
+form{
+    height: 311px;
+}
+
+h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+
+}
